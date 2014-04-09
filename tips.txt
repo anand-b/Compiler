@@ -1,0 +1,2 @@
+TIPS:
+to avoid conflicts, if two productions have same right side or similar right side, take the common one and make it as new production

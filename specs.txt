@@ -1,0 +1,18 @@
+----------------------------
+Lexical Specification file
+Parser specification file
+----------------------------
+Integer operations are only possible*
+arithmetic*, logical*, bitwise*, unary*(++*,--*,!*,-) etc operations
+
+# is used as single line comment* while #...# for multi line comment
+
+statements terminate with a dot or $*
+loop body is identified by an indentation
+function call in upper case*
+function call implementation
+identifiers in lower case only, letters followed by digits*
+symbol table*
+if ends with fi*
+if implementation*
+set of 10 keywords*

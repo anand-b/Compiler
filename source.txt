@@ -1,0 +1,28 @@
+go
+	int a,b=6,c,d$
+	out "Enter a value for a: "$
+	#just a comment
+	in a$
+	c=a+b-1$
+	out c$
+	$
+	out c-b$
+	if(b<c)then
+		b=c$
+		a=a+1$
+		out "yipee!"$
+		if(b==c)then
+			out b$
+		fi
+	else
+		b=b+1$
+		out "hello"$
+	fi
+	a=0$
+	loop till a<2 do
+		$	
+	with a++$
+	out "came here12"$
+	out b$
+	out a$
+finish
